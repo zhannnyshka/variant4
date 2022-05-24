@@ -1,0 +1,262 @@
+.container_1 {
+    width: 100%;
+    height: 56px;
+}
+
+.logo {
+    position: absolute;
+    margin-top: 0.5%;
+    left: 1%;
+    width: 88px;
+    height: 32px;
+}
+
+.kvadrat {
+    width: 16px;
+    height: 16px;
+    position: absolute;
+    margin-top: 0.9%;
+    left: 7%;
+}
+
+.text1_container_1 {
+    width: 64px;
+    height: 24px;
+    font-size: 14px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-top: 0.9%;
+    left: 8.3%;
+    position: absolute;
+    font-weight: bold;
+}
+
+.lypa {
+    width: 17px;
+    height: 17px;
+    position: absolute;
+    margin-top: 0.9%;
+    left: 14%;
+}
+
+.text2_container_1 {
+    width: 64px;
+    height: 24px;
+    font-size: 14px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-top: 0.9%;
+    left: 15.5%;
+    position: absolute;
+    font-weight: bold;
+}
+
+.rupor {
+    width: 40px;
+    height: 40px;
+    position: absolute;
+    margin-top: 0.5%;
+    left: 92%;
+}
+
+.kolokol {
+    width: 16px;
+    height: 19px;
+    position: absolute;
+    margin-top: 1%;
+    left: 95%;
+}
+
+.avatar {
+    width: 40px;
+    height: 40px;
+    position: absolute;
+    margin-top: 0.5%;
+    left: 97%;
+}
+
+.container_2 {
+    width: 96%;
+    height: 56px;
+    border-style: solid;
+    border-color: darkgrey;
+    border-width: thin;
+    margin-top: 1%;
+    left: 1.9%;
+    position: relative;
+    border-radius: 12px;
+}
+
+.moduleavatar {
+    width: 40px;
+    height: 40px;
+    margin-top: 0.5%;
+    left: 0.5%;
+    position: absolute;
+}
+
+.text1_container_2 {
+    font-size: 24px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-top: 0.7%;
+    left: 3.8%;
+    position: absolute;
+}
+
+.rucovod {
+    width: 129px;
+    height: 32px;
+    position: absolute;
+    margin-top: 0.7%;
+    left: 17%;
+}
+
+.text2_container_2 {
+    font-size: 15px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-top: 0.98%;
+    position: absolute;
+    left: 64%;
+}
+
+.text3_container_2 {
+    font-size: 15px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-top: 0.9%;
+    position: absolute;
+    left: 90%;
+    color: #6153CC;
+}
+
+.warning {
+    width: 21px;
+    height: 21px;
+    position: absolute;
+    margin-top: 0.8%;
+    left: 97%;
+}
+
+.container_3 {
+    width: 100%;
+    height: 56px;
+    margin-top: 0%;
+    left: 0%;
+    position: relative;
+}
+
+.container_33 {
+    width: 204px;
+    height: 36px;
+    border-style: solid;
+    border-color: darkgrey;
+    border-width: thin;
+    margin-top: 1%;
+    left: 1.9%;
+    position: relative;
+    border-radius: 12px;
+}
+
+.container_33 h1 {
+    font-size: 14px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: lighter;
+    margin-top: 4.5%;
+    position: absolute;
+    left: 0.5%;
+    color: #2A2D43;
+}
+
+.rectangle_1 {
+    width: 10px;
+    height: 5px;
+    position: absolute;
+    margin-top: 7.5%;
+    left: 89%;
+}
+
+.kvadrat_2 {
+    width: 18px;
+    height: 18px;
+    position: absolute;
+    border-style: solid;
+    border-color: #6153CC;
+    margin-top: -1.4%;
+    left: 73%;
+}
+
+.text1_container_3 {
+    font-size: 14px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: lighter;
+    margin-top: -1%;
+    position: absolute;
+    left: 75%;
+    color: #2A2D43;
+}
+
+.button {
+    margin-top: -2%;
+    position: absolute;
+    left: 90%;
+}
+
+.container_4 {
+    width: 96%;
+    height: 900px;
+    border-style: solid;
+    border-color: white;
+    margin-top: 0%;
+    left: 1.9%;
+    position: relative;
+}
+
+.text_11 {
+    font-size: 14px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    position: absolute;
+    left: 2%;
+    color: #2A2D43;
+    font-weight: bold;
+    margin-top: 0.5%;
+}
+
+.text_12 {
+    font-size: 14px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    position: absolute;
+    left: 40%;
+    color: #2A2D43;
+    font-weight: bold;
+    margin-top: 0.5%;
+}
+.text_13 {
+    font-size: 14px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    position: absolute;
+    left: 60%;
+    color: #2A2D43;
+    font-weight: bold;
+    margin-top: 0.5%;
+}
+
+.text_14 {
+    font-size: 14px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    position: absolute;
+    left: 78%;
+    color: #2A2D43;
+    font-weight: bold;
+    margin-top: 0.5%;
+}
+
+.s_1 {
+    width: 100%;
+    height: 40px;
+    background-color: #E5E6E8;
+    margin-top: 2%;
+    border-radius: 12px;
+}
+
+.vector_1 {
+    margin-top: 1%;
+    left: 1>%;
+    position: absolute;
+}
